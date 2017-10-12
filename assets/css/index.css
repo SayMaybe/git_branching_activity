@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: #1E90FF;
+    color: green;
     margin: 0;
     padding: 0 10px;
     line-height: 60px;
@@ -12,7 +12,7 @@ h1 {
 
 nav {
     text-align: center;
-    border-bottom: 1px solid darkgrey;
+    border-bottom: 1px solid green;
 }
 
 .command-row {
@@ -22,6 +22,7 @@ nav {
 
 .command-column {
     width: 40%;
+
 }
 
 .command-item {
